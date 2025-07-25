@@ -25,7 +25,7 @@ An AI-powered web application that detects crop diseases using deep learning
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/crop-disease-classification.git
+   git clone https://github.com/RamakrishnaTanam/Crop_diseaseClassification.git
    cd crop-disease-classification
    ```
 2. Install dependencies:
